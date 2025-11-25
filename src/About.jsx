@@ -5,7 +5,7 @@ function About() {
     <div>
      
       <h1 className="text-center text-4xl mt-7 text-sky-700 ">SKILLS</h1>
-  <div className="mt-30 mx-50 text-3xl content4">
+  <div className="mt-20 mx-3 text-2xl content4">
     <div className="row p-lg-3 p-1 mb-lg-3 mb-0">
       <div className="col-lg-6 col-12 pt-lg-0 pt-3">
         <label>HTML</label>
